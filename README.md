@@ -1,2 +1,2 @@
 # algotrader
-An algorithmic trading script to trade with TD Ameritrade
+An algorithmic trading backtester script to test on historical data.
